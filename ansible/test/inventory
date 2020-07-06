@@ -1,0 +1,2 @@
+[apim]
+apim_1 ansible_host=cli.apim.com ansible_user=forrester ansible_ssh_private_key_file=files/keys/Forrester

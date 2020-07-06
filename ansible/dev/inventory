@@ -1,0 +1,12 @@
+[apim]
+apim_1 ansible_host=apis.apim.com ansible_user=forrester ansible_ssh_private_key_file=files/keys/Forrester
+
+[apim-is-as-km]
+apim-is-as-km_1 ansible_host=km.apim.com ansible_user=forrester ansible_ssh_private_key_file=files/keys/Forrester
+
+[apim-analytics]
+apim-analytics_1 ansible_host=analytics.apim.com ansible_user=forrester ansible_ssh_private_key_file=files/keys/Forrester
+
+[ei]
+ei_1 ansible_host=ei.apim.com ansible_user=forrester ansible_ssh_private_key_file=files/keys/Forrester
+

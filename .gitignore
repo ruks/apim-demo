@@ -1,0 +1,4 @@
+**.DS_Store
+.idea
+org.wso2.carbon.apimgt.demo.iml
+target/**
